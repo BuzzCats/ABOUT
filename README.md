@@ -1,6 +1,6 @@
 - 👋 Hello, I am @BuzzCats
 
-I am an individual contributor specializing in a wide range of technological experiences.  I have 30+ years of experience in running business enterprise I.T. infrastructures, in addition to developing enterprise business software in over a dozen different computing languages and logistical environments.
+I am an individual contributor specializing in a wide range of technological experiences.  I have 40+ years of experience running business enterprise I.T. infrastructures, developing enterprise business software in over a dozen different computing languages and logistical environments.
 
 
 - 👀 My interested here is:
